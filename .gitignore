@@ -11,6 +11,10 @@
 # NuGet-Pakete
 /packages/
 
+
+*.vsidx
+
+
 # Testergebnisse und Debug-Dateien
 [Tt]est[Rr]esult*/
 [Bb]in/*
