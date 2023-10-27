@@ -1,1 +1,21 @@
-/.vs
+# Binäre Dateien und temporäre Verzeichnisse
+/bin/
+/obj/
+
+# Benutzer-spezifische Dateien
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet-Pakete
+/packages/
+
+# Testergebnisse und Debug-Dateien
+[Tt]est[Rr]esult*/
+[Bb]in/*
+[Dd]ebug*/
+[Rr]elease*/
+
+# Benutzerdefinierte Build-Artefakte und temporäre Dateien
+# Füge hier Dateien und Verzeichnisse hinzu, die für dein Projekt spezifisch sind.
